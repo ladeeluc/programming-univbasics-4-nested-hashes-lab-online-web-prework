@@ -106,7 +106,7 @@ def changing_alan
         },
      }
 
-alan_kay["changing_alan"][:known_for] = "GUI"
+programmer_hash["changing_alan"][:known_for] = "GUI"
 end
 
 def adding_to_dennis
