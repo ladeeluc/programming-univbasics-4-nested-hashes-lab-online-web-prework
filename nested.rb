@@ -98,15 +98,15 @@ def changing_alan
         :alan_kay => {
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
-				alan_kay["changing_alan"][:known_for] = "GUI"
+				
         },
         :dennis_ritchie => {
           :known_for => "Unix",
           :languages => ["C"]
-        }
+        },
      }
 
-
+alan_kay["changing_alan"][:known_for] = "GUI"
 end
 
 def adding_to_dennis
