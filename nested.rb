@@ -95,8 +95,8 @@ def changing_alan
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
         },
-        alan_kay[:changing_alan] => {
-          :known_for => "Object Orientation",
+        :alan_kay => {
+          :known_for => "GUI",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
