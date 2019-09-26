@@ -98,7 +98,7 @@ def changing_alan
         :alan_kay => {
           :known_for => "GUI",
           :languages => ["Smalltalk", "LISP"]
-				alan_kay[:changing_alan]
+				alan_kay["changing_alan"]
         },
         :dennis_ritchie => {
           :known_for => "Unix",
